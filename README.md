@@ -19,7 +19,7 @@ Préparer ses réponses · Valoriser son parcours · S’entraîner avec l’IA
 
 Le projet propose un accompagnement personnalisé à partir du CV, de l’offre visée et du contexte de l’entreprise. L’objectif est de rendre la préparation plus accessible, d’aider à structurer ses idées et de gagner en confiance grâce à la pratique.
 
-Il s’agit d’un **prototype d’application web**, qui associe une interface React, un serveur Node.js et l’IA générative de Google Gemini.
+Il s’agit d’un **premier jet, encore à améliorer**, qui associe une interface React, un serveur Node.js et l’IA générative de Google Gemini. Cette première version permet d’explorer le concept et de recueillir des retours ; elle doit encore être affinée et testée davantage pour améliorer la fiabilité, l’expérience utilisateur et la pertinence des conseils proposés aux étudiants.
 
 ## Ce que l’application permet de faire
 
